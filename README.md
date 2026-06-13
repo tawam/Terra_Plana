@@ -1,2 +1,3 @@
-# Terra_Plana
-Discussão e Argumentos - Terra Plana, Deus, Ciência
+# Dossiê Terra Plana, Bíblia e Gigantes
+
+Abra `index.html` em qualquer navegador. O site é estático e responsivo.
